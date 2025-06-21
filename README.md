@@ -59,6 +59,12 @@ The server will run on `http://localhost:5000`.
 - **GET** `/:code`
     - Redirects to the original long URL
 
+## Screenshots
+
+![POST Request Screenshot](screenshots/screenshot1.png)
+![GET Request Screenshot](screenshots/screenshot2.png)
+
+
 ## License
 
 This project is licensed under the ISC License.
