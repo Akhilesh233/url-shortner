@@ -54,16 +54,14 @@ The server will run on `http://localhost:5000`.
     - **Body:** `{ "longUrl": "https://example.com" }`
     - **Response:** Shortened URL object
 
+![POST Request Screenshot](screenshots/screenshot1.png)
+
 ### Redirect
 
 - **GET** `/:code`
     - Redirects to the original long URL
 
-## Screenshots
-
-![POST Request Screenshot](screenshots/screenshot1.png)
 ![GET Request Screenshot](screenshots/screenshot2.png)
-
 
 ## License
 
